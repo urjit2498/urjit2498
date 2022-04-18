@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urjit2498" alt="urjit2498&row=2&column=3" /></a></p>
 
 <!-- tritter -->
-<p align="left"> <a href="https://twitter.com/urjit2498" target="blank"><img src="https://img.shields.io/twitter/follow/urjit2498?logo=twitter&style=for-the-badge" alt="urjit2498" /></a> </p>
+<p align="left"> <a href="https://twitter.com/urjit2498" target="_blank"><img src="https://img.shields.io/twitter/follow/urjit2498?logo=twitter&style=for-the-badge" alt="urjit2498" /></a> </p>
 
 - 🔭 I’m currently working at [MindInventory](https://www.mindinventory.com/)
 
