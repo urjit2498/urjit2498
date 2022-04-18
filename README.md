@@ -1,10 +1,13 @@
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Urjit</h1>
 <h3 align="center"/>A passionate Full-stack Engineer from India</h3>
 
+<!-- views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urjit2498&label=Profile%20views&color=0e75b6&style=flat" alt="urjitshah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urjit2498" alt="urjit2498" /></a> </p>
+<!-- trophies -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urjit2498" alt="urjit2498&row=2&column=3" /></a></p>
 
+<!-- tritter -->
 <p align="left"> <a href="https://twitter.com/urjit2498" target="blank"><img src="https://img.shields.io/twitter/follow/urjit2498?logo=twitter&style=for-the-badge" alt="urjit2498" /></a> </p>
 
 - 🔭 I’m currently working at [MindInventory](https://www.mindinventory.com/)
