@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Urjit</h1>
+<h1 align="center">Hello there <img src="https://tenor.com/view/hi-gif-23520343" width="30px">, I'm Urjit</h1>
 <h3 align="center"/>A passionate Full-stack Engineer from India</h3>
 
 <!-- views -->
@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working at [MindInventory](https://www.mindinventory.com/)
 
-- 🌱 I’m currently learning **React+Node with MySQL and everything related to it**
+- 🌱 I’m currently learning **Object oriented backend language(Go)**
 
 <!-- - 📫 How to reach me **dev.jadeja@greylabs.com** -->
 
