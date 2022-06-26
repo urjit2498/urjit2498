@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="https://tenor.com/view/hi-gif-23520343" width="30px">, I'm Urjit</h1>
+<h1 align="center">Hello there <img src="https://tenor.com/view/hi-gif-23520343" alt="wave hand" width="30px">, I'm Urjit</h1>
 <h3 align="center"/>A passionate Full-stack Engineer from India</h3>
 
 <!-- views -->
