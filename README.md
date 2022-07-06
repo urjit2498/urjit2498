@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working at [MindInventory](https://www.mindinventory.com/)
 
-- 🌱 I’m currently learning **Object oriented backend language(Go)**
+- 🌱 I’m currently learning **TypeScript, Object oriented backend language(Go)**
 
 <!-- - 📫 How to reach me **dev.jadeja@greylabs.com** -->
 
