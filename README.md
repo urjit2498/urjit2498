@@ -24,9 +24,8 @@
   <a href="https://instagram.com/urjit.2498" target="_blank">
     <img src="https://img.shields.io/twitter/follow/urjit2498?logo=twitter&style=for-the-badge" alt="urjit2498" />
   </a>
-</p> - 🔭 I’m currently working at [MindInventory](https://www.mindinventory.com/) - 🌱 I’m currently learning **TypeScript, Object oriented backend language(Go)**
-<!-- - 📫 How to reach me **dev.jadeja@greylabs.com** -->
-<!-- - 📄 Know about my experiences [https://krushn.dev](https://krushn.dev) -->
+</p> 
+- 🔭 I’m currently working at [MindInventory](https://www.mindinventory.com) 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
   <a href="https://twitter.com/urjit2498" target="_blank">
