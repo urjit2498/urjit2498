@@ -25,11 +25,12 @@
     <img src="https://img.shields.io/twitter/follow/urjit2498?logo=twitter&style=for-the-badge" alt="urjit2498" />
   </a>
 </p> 
-- 🔭 I’m currently working at [MindInventory](https://www.mindinventory.com) 
+- 🔭 I’m currently working at MindInventory
+<a href="https://app.daily.dev/urjitshah"><img src="https://api.daily.dev/devcards/v2/uy9is0IpvLDIdbu2sEHWy.png?r=7ys" width="356" alt="Urjit Shah's Dev Card"/></a>
 <h3 align="left">Connect with me: </h3>
 <p align="left">
-  <a href="https://twitter.com/urjit2498" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="urjitshah" height="30" width="40" />
+  <a href="https://urjitshah-portfolio.gpt3-us.in/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/pinboard.svg" alt="se7en_5ive" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/urjitshah2498/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="urjitshah" height="30" width="40" />
