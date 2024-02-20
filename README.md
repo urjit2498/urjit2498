@@ -30,16 +30,16 @@
 <h3 align="left">Connect with me: </h3>
 <p align="left">
   <a href="https://urjitshah-portfolio.gpt3-us.in/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/pinboard.svg" alt="se7en_5ive" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/pinboard.svg" alt="se7en_5ive" height="30" width="40" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/urjitshah2498/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="urjitshah" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="urjitshah" height="30" width="40" target="_blank" />
   </a>
   <a href="https://m.facebook.com/Urjitshah2498" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="urjitshah" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="urjitshah" height="30" width="40" target="_blank" />
   </a>
   <a href="https://instagram.com/urjit.2498" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="se7en_5ive" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="se7en_5ive" height="30" width="40" target="_blank" />
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
