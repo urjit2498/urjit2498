@@ -25,8 +25,7 @@
     <img src="https://img.shields.io/twitter/follow/urjit2498?logo=twitter&style=for-the-badge" alt="urjit2498" />
   </a>
 </p> 
-- 🔭 I’m currently working at MindInventory
-<a href="https://app.daily.dev/urjitshah"><img src="https://api.daily.dev/devcards/v2/uy9is0IpvLDIdbu2sEHWy.png?r=7ys" width="356" alt="Urjit Shah's Dev Card"/></a>
+🔭 I’m currently working at York IE
 <h3 align="left">Connect with me: </h3>
 <p align="left">
   <a href="https://urjitshah-portfolio.gpt3-us.in/" target="_blank">
