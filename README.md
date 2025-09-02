@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave hand" width="45px" height="45px">, I'm Urjit </h1>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave hand" width="45px" height="45px"> I'm Urjit </h1>
 <h3 align="center">A passionate Full-stack Engineer from India</h3>
 <!-- views -->
 <p align="center">
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/twitter/follow/urjit2498?logo=twitter&style=for-the-badge" alt="urjit2498" />
   </a>
 </p> 
-🔭 I’m currently working at York IE
+🔭 I’m currently working at York IE as Sennior Software Engineer
 <h3 align="left">Connect with me: </h3>
 <p align="left">
   <a href="https://urjitshah-portfolio.gpt3-us.in/" target="_blank">
