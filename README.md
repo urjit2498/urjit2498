@@ -2,7 +2,7 @@
 
 ### An experienced Javascript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=urjit2498&label=Profile views&color=0e75b6&style=flat" alt="urjit2498" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=urjit2498&label=Profile%20views&color=0e75b6&style=flat" alt="urjit2498" /> </p>
 
 - 🔭 I'm currently working on **a MERN Stack project**
 
